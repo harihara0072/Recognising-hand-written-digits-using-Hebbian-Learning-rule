@@ -1,7 +1,4 @@
-# Nakshatrala, Hari Hara Kumar
-# 1001-102-740
-# 2017-09-17
-# Assignment_02_03
+
 
 import numpy as np
 import tkinter as tk
